@@ -6,4 +6,6 @@ Google Ngrams
 
 Sketch Engine
 
-1) modifiers of "question": difficult, important, fundamental
+1) modifiers of "question": difficult, important, fundamental - https://github.com/aaa6aaa/hw6/blob/master/question.jpg
+
+2) like/enjoy - 
