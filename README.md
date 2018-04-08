@@ -8,4 +8,6 @@ Sketch Engine
 
 1) modifiers of "question": difficult, important, fundamental - https://github.com/aaa6aaa/hw6/blob/master/question.jpg
 
-2) like/enjoy - 
+2) like/enjoy - https://github.com/aaa6aaa/hw6/blob/master/like%2C%20enjoy.jpg
+
+Оба глагола могут употребляться с дополнениями:people, coffee, sound, bit, one, smell, cup, tea (Would you loke coffee, or lemon tea perhaps?; I enjoyed that coffee.). Только like может употребляться с дополнениями idea, look, information (Claire liked the idea of marriage). Только enjoy может употребляться с дополнениями meal, experience, privilege, evening, support, freedom etc. (She enjoyed the freedom, but she dreaded being lonely.)
